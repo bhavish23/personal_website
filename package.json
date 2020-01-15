@@ -1,9 +1,8 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
-  "version": "0.1.0",
-  "license": "MIT",
+  "name": "Bhavishya kumar",
+  "description": "Personal website for Bhavishya kumar",
+  "version": "1.0.0",
+  "author": "Bhavishya kumar <bhavishsharma236@gmail.com>",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -15,8 +14,11 @@
   },
   "dependencies": {
     "gatsby": "^2.18.12",
+    "install": "^0.13.0",
+    "npm": "^6.13.4",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-feather": "^2.0.3"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
