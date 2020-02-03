@@ -8,7 +8,7 @@ module.exports = {
       },
       {
         name: `github`,
-        url: `https://github.com/gillkyle`,
+        url: `https://github.com/bhavish23`,
       },
     ],
   },
