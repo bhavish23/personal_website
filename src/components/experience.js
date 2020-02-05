@@ -109,7 +109,7 @@ const RoundedImageContainer = styled.div`
 
 const jobs = [
   {
-    company: 'Gatsby',
+    company: 'marketXLS',
     logo: marketXLS,
     jobTitle: 'Software Engineer Intern',
     dates: 'May 2019 - Present',

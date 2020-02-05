@@ -13,7 +13,7 @@ import {
 } from '../styles/constants'
 
 import Button from './shared/Button'
-//import resume from '../images/KyleGill-Resume.pdf'
+import resume from '../images/bhavishyakumar-resume.pdf'
 
 const HeaderBar = styled.div`
   display: flex;
@@ -86,7 +86,7 @@ const Header = () => (
       <NavLink href="#learning">Learning</NavLink>
       <NavLink href="#contact">Contact</NavLink>
       <a download>
-        <NavLinkButton>Resume</NavLinkButton>
+        <NavLinkButton href={resume}>Resume</NavLinkButton>
       </a>
     </NavLinks>
   </HeaderBar>

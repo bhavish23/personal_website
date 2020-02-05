@@ -53,15 +53,15 @@ const About = () => (
           <Paragraph>Here are some things I'm experienced with:</Paragraph>
           <UList style={{ color: COLORS.black }}>
             <ListItem>Javascript</ListItem>
-            <ListItem>React</ListItem>
+            <ListItem>python</ListItem>
+            <ListItem>java</ListItem>
             <ListItem>Gatsby</ListItem>
+            <ListItem>React</ListItem>
             <ListItem>Node</ListItem>
-            <ListItem>GraphQL</ListItem>
-            <ListItem>Ruby on Rails</ListItem>
-            <ListItem>Python</ListItem>
+            <ListItem>Flutter</ListItem>
+            <ListItem>Django</ListItem>
             <ListItem>Swift</ListItem>
-            <ListItem>Sketch</ListItem>
-            <ListItem>Figma</ListItem>
+            <ListItem>C++</ListItem>
           </UList>
         </AboutDescription>
       </AboutMeContainer>

@@ -15,10 +15,10 @@
   "dependencies": {
     "@emotion/styled": "^10.0.27",
     "gatsby": "^2.18.12",
-    "gatsby-plugin-sharp": "^2.3.13",
+    "gatsby-plugin-sharp": "^2.4.5",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-filesystem": "^2.1.48",
-    "gatsby-transformer-sharp": "^2.3.12",
+    "gatsby-transformer-sharp": "^2.3.14",
     "install": "^0.13.0",
     "npm": "^6.5.0",
     "prop-types": "^15.7.2",
