@@ -85,8 +85,8 @@ const Header = () => (
       <NavLink href="#projects">Work</NavLink>
       <NavLink href="#learning">Learning</NavLink>
       <NavLink href="#contact">Contact</NavLink>
-      <a download>
-        <NavLinkButton href={resume}>Resume</NavLinkButton>
+      <a href={resume} download>
+        <NavLinkButton >Resume</NavLinkButton>
       </a>
     </NavLinks>
   </HeaderBar>
