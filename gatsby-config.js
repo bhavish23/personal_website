@@ -12,6 +12,12 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     {
+    resolve: `gatsby-plugin-manifest`,
+      options: {
+        icon: `src/icon.png`, 
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
