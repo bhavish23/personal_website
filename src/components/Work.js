@@ -48,7 +48,7 @@ const Hero = () => (
           title="Stocks app"
           desc="A marketXLS powered, data-driven web app to discover Stock market Status"
           link="https://stocks.marketXLS.com"
-          repoName="synthetic"
+          repoName="marketXLS"
         />
         <ProjectCard
           icon={MoreIcon}

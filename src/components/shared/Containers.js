@@ -3,6 +3,7 @@ import styled from '@emotion/styled'
 import { MEDIA_QUERIES, GRADIENT, MARGIN } from '../../styles/constants'
 
 export const SectionContainer = styled.div`
+  pointer-events: none;
   z-index: -5;
   background: ${props => (props.backgroundFilled ? GRADIENT : 'white')};
   padding: ${MARGIN.default};
@@ -35,3 +36,6 @@ export const CardGrid = styled.div`
         grid-template-columns: minmax(200px, 1fr);
       } `};
 `
+export const ContactContainer = styled.div`
+  
+`;

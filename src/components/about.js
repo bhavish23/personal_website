@@ -24,7 +24,7 @@ const AboutMeContainer = styled.div`
 const AboutDescription = styled.div``
 
 const About = () => (
-  <SectionContainer id="about">
+  <SectionContainer id="about" >
     <Image
       src={AboutMeLeftSideBar}
       sx={{ position: 'absolute', left: 0, transform: 'translateY(-50px)' }}
