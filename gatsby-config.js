@@ -1,11 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Kyle Gill | Developer & Designer',
+    title: 'Bhavishya kumar| Developer & Designer',
     social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/gill_kyle`,
-      },
       {
         name: `github`,
         url: `https://github.com/bhavish23`,

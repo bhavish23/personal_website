@@ -10,6 +10,7 @@ import Image from './shared/Image'
 import { BORDER_RADIUS, SHADOW, TRANSITION, COLORS } from '../styles/constants'
 
 const Wraper = styled.div`
+   z-index: 1000;
    position: fixed;
   //grid-template-row: repeat(1);
   //grid-gap: 30px;

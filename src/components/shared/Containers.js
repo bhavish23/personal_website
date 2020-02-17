@@ -3,7 +3,7 @@ import styled from '@emotion/styled'
 import { MEDIA_QUERIES, GRADIENT, MARGIN } from '../../styles/constants'
 
 export const SectionContainer = styled.div`
-  pointer-events: none;
+  //pointer-events: none;
   z-index: -5;
   background: ${props => (props.backgroundFilled ? GRADIENT : 'white')};
   padding: ${MARGIN.default};

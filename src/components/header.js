@@ -83,8 +83,7 @@ const Header = () => (
       <NavLink href="#about">About</NavLink>
       <NavLink href="#experience">Experience</NavLink>
       <NavLink href="#projects">Work</NavLink>
-      <NavLink href="#learning">Learning</NavLink>
-      <NavLink href="#contact">Contact</NavLink>
+      <NavLink href="#">Learning</NavLink>
       <a href={resume} download>
         <NavLinkButton >Resume</NavLinkButton>
       </a>
