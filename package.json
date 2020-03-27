@@ -1,5 +1,5 @@
 {
-  "value": "Bhavishya_kumar",
+  "value": "Bhavishya kumar",
   "description": "Personal website for Bhavishya kumar",
   "version": "1.0.0",
   "author": "Bhavishya kumar <bhavishsharma236@gmail.com>",
@@ -27,6 +27,7 @@
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^16.12.0",
     "react-feather": "^2.0.3",
+    "react-helmet": "^5.2.1",
     "theme-ui": "^0.3.1"
   },
   "devDependencies": {
@@ -34,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/bhavish23/personal_website"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"

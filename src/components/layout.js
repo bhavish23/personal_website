@@ -1,11 +1,11 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { StaticQuery, graphql } from 'gatsby'
+import React from "react"
+import PropTypes from "prop-types"
+import { StaticQuery, graphql } from "gatsby"
 
-//import Head from './head'
-import Header from './header'
+import Head from "./head"
+import Header from "./header"
 
-import '../styles/layout.css'
+import "../styles/layout.css"
 
 const Layout = ({ children, location }) => (
   <StaticQuery
@@ -20,6 +20,7 @@ const Layout = ({ children, location }) => (
     `}
     render={({ site }) => (
       <>
+        <Head metaData={site.siteMetadata} />
         <Header location={location} siteTitle={site.siteMetadata.title} />
         {children}
       </>
